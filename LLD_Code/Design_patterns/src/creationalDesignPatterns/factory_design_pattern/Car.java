@@ -1,4 +1,4 @@
-package factory_design_pattern;
+package creationalDesignPatterns.factory_design_pattern;
 
 public class Car implements Vehicle{
     @Override
